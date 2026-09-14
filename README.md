@@ -1,1 +1,0 @@
-# Industrial-fault-detection-sysytem
